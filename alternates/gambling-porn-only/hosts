@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 24 October 2024 00:30:42 (UTC)
+# Date: 24 November 2024 19:28:51 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: gambling, porn
-# Number of unique domains: 84,694
+# Number of unique domains: 85,062
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-porn-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -19,9 +19,9 @@
 
 # End of custom host records.
 # Title: hostsVN Gambling
-# Last modified: 23 Oct 2024 22:07 UTC+7
-# Version: 2410232207
-# Blocked: 5,857 domains
+# Last modified: 24 Nov 2024 11:45 UTC+7
+# Version: 2411241145
+# Blocked: 6,027 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -108,6 +108,7 @@
 0.0.0.0 123b.com
 0.0.0.0 123b.net
 0.0.0.0 123b.org
+0.0.0.0 123b.town
 0.0.0.0 123b.vn
 0.0.0.0 123b03.com
 0.0.0.0 123b04.com
@@ -141,6 +142,7 @@
 0.0.0.0 188asia.bet
 0.0.0.0 188asport.com
 0.0.0.0 188best188.net
+0.0.0.0 188bet.pro
 0.0.0.0 188betcn2.com
 0.0.0.0 188bowls.com
 0.0.0.0 188bst.com
@@ -173,6 +175,7 @@
 0.0.0.0 228kbet.com
 0.0.0.0 22ee88.com
 0.0.0.0 22zalo.com
+0.0.0.0 23win.win
 0.0.0.0 23winvn.com
 0.0.0.0 2826.bet
 0.0.0.0 29999y.com
@@ -296,6 +299,7 @@
 0.0.0.0 789b.win
 0.0.0.0 789bet.com
 0.0.0.0 789bet.run
+0.0.0.0 789bet.vip
 0.0.0.0 789beta.com
 0.0.0.0 789betf.com
 0.0.0.0 789betj.com
@@ -313,6 +317,10 @@
 0.0.0.0 789d.club
 0.0.0.0 789k.club
 0.0.0.0 789v.club
+0.0.0.0 789vg.net
+0.0.0.0 789vg.pro
+0.0.0.0 789vg.today
+0.0.0.0 789vg.top
 0.0.0.0 789winchan.com
 0.0.0.0 789x.club
 0.0.0.0 78win01.com
@@ -320,6 +328,7 @@
 0.0.0.0 78win07.com
 0.0.0.0 78win09.com
 0.0.0.0 799999.cc
+0.0.0.0 79king.wtf
 0.0.0.0 79luckyclub.fun
 0.0.0.0 79sodo.com
 0.0.0.0 79sun.bet
@@ -349,8 +358,11 @@
 0.0.0.0 8559558.com
 0.0.0.0 85vnd.com
 0.0.0.0 868vip.asia
+0.0.0.0 868vip.cam
 0.0.0.0 868vip.live
 0.0.0.0 868vip.mobi
+0.0.0.0 868vip.onl
+0.0.0.0 868vip.pro
 0.0.0.0 868vip.top
 0.0.0.0 868vip1.live
 0.0.0.0 87vnd.com
@@ -404,6 +416,7 @@
 0.0.0.0 8day.bet
 0.0.0.0 8day.com
 0.0.0.0 8day.online
+0.0.0.0 8day.sbs
 0.0.0.0 8day66.com
 0.0.0.0 8dayclub.com
 0.0.0.0 8daygo.com
@@ -483,6 +496,7 @@
 0.0.0.0 99vn.bet
 0.0.0.0 9ahf0.com
 0.0.0.0 9b992.com
+0.0.0.0 9bet.net
 0.0.0.0 9e3c.com
 0.0.0.0 a100.by88.one
 0.0.0.0 a2xik.com
@@ -505,6 +519,7 @@
 0.0.0.0 ad.choingay11b.vin
 0.0.0.0 ad.choingay88.com
 0.0.0.0 ad.choiyo88.co
+0.0.0.0 ad.da88vn.win
 0.0.0.0 ad.dangkygo88.in
 0.0.0.0 ad.gamequyong.site
 0.0.0.0 ad.gamequyong.xyz
@@ -556,6 +571,7 @@
 0.0.0.0 ae888.men
 0.0.0.0 ae888.mobi
 0.0.0.0 ae888.net
+0.0.0.0 ae888.run
 0.0.0.0 ae88827.com
 0.0.0.0 ae88830.com
 0.0.0.0 ae88836.com
@@ -687,6 +703,7 @@
 0.0.0.0 api.mc876.com
 0.0.0.0 api.minicasino.io
 0.0.0.0 api.minivn.com
+0.0.0.0 api.mocbai.cc
 0.0.0.0 api.mu88.ag
 0.0.0.0 api.mu88.mu
 0.0.0.0 api.mu9.club
@@ -739,6 +756,8 @@
 0.0.0.0 app.wellviet.net
 0.0.0.0 app611.net
 0.0.0.0 appbk8.com
+0.0.0.0 appdaga.app
+0.0.0.0 appdaga.online
 0.0.0.0 appi9bet.com
 0.0.0.0 appstore.nosap.win
 0.0.0.0 apptk.app
@@ -780,6 +799,7 @@
 0.0.0.0 b89.bet
 0.0.0.0 bachhoa88.com
 0.0.0.0 bacty88.com
+0.0.0.0 baidoithuong.co
 0.0.0.0 banca-red88.top
 0.0.0.0 banca.cc
 0.0.0.0 banca.red88.us
@@ -1076,12 +1096,14 @@
 0.0.0.0 cms.vh79.com
 0.0.0.0 cnamec.com
 0.0.0.0 coderiik.win
+0.0.0.0 codetet.asia
 0.0.0.0 comebet.xyz
 0.0.0.0 comebetvn1.com
 0.0.0.0 comebetvn10.com
 0.0.0.0 comebetvn2.com
 0.0.0.0 comebetvn3.com
 0.0.0.0 comebetvn9.com
+0.0.0.0 congdongmiosoioso.com
 0.0.0.0 conggamehot.fun
 0.0.0.0 conggiaitri.com
 0.0.0.0 coopbet.com
@@ -1181,9 +1203,11 @@
 0.0.0.0 dangky.dailynet88.com
 0.0.0.0 dangky.go88.com
 0.0.0.0 dangky.thethaofb88.com
+0.0.0.0 dangky.tysoeuro.online
 0.0.0.0 dangky388bet.xyz
 0.0.0.0 dangky789.link
 0.0.0.0 dangky789.sbs
+0.0.0.0 dangky789.vin
 0.0.0.0 dangkybayvip.com
 0.0.0.0 dangkybum.club
 0.0.0.0 dangkyee88.online
@@ -1196,6 +1220,7 @@
 0.0.0.0 dangkyrikvip.win
 0.0.0.0 dangkysanvip.site
 0.0.0.0 dangkythabet.com
+0.0.0.0 dangkywi88.org
 0.0.0.0 danhbaidoithuongizi.com
 0.0.0.0 danhloo.com
 0.0.0.0 datcuoc.thethaofb88.com
@@ -1207,6 +1232,7 @@
 0.0.0.0 debet.cc
 0.0.0.0 debet.club
 0.0.0.0 debet.com
+0.0.0.0 debet.fun
 0.0.0.0 debet.info
 0.0.0.0 debet.net
 0.0.0.0 debet.top
@@ -1234,6 +1260,7 @@
 0.0.0.0 dk.playgem.club
 0.0.0.0 dk.playgem.me
 0.0.0.0 dk.rikkk.net
+0.0.0.0 dk.sieutaixiu79.club
 0.0.0.0 dk.thangiwin.org
 0.0.0.0 dk.thethaouk88.org
 0.0.0.0 dk.thethaovua.co
@@ -1283,6 +1310,7 @@
 0.0.0.0 dp533.com
 0.0.0.0 dp568.com
 0.0.0.0 dp568bet.com
+0.0.0.0 duatop2024.net
 0.0.0.0 dubaivn.vip
 0.0.0.0 duongdenkhungthanh.com
 0.0.0.0 e678y.com
@@ -1458,13 +1486,21 @@
 0.0.0.0 fine.bet
 0.0.0.0 fishapi.taisum2.com
 0.0.0.0 fishapi.xinloiduocchua.co
+0.0.0.0 five-88.com
+0.0.0.0 five-88.link
+0.0.0.0 five-88.net
 0.0.0.0 five88.biz
 0.0.0.0 five88.com
 0.0.0.0 five88.me
 0.0.0.0 five88.net
+0.0.0.0 five88.sale
+0.0.0.0 five88.show
 0.0.0.0 five88.top
 0.0.0.0 five88.vin
 0.0.0.0 five88.win
+0.0.0.0 five88.wine
+0.0.0.0 five88.world
+0.0.0.0 five88vn.me
 0.0.0.0 fivevn.net
 0.0.0.0 fmapt.com
 0.0.0.0 for88.com
@@ -1525,6 +1561,10 @@
 0.0.0.0 gamebai.manclub.us
 0.0.0.0 gamebai.manclub.vin
 0.0.0.0 gamebai.vin
+0.0.0.0 gamebai88.fun
+0.0.0.0 gamebaidoithuong.com.mx
+0.0.0.0 gamebaidoithuong.quest
+0.0.0.0 gamebaidoithuong6.com
 0.0.0.0 gamebaisumvip.net
 0.0.0.0 gamebancaonline.com
 0.0.0.0 gamebay365.us
@@ -1533,6 +1573,8 @@
 0.0.0.0 gamehot88.fun
 0.0.0.0 gameiwin.asia
 0.0.0.0 gameiwin.vip
+0.0.0.0 gameiwin68.app
+0.0.0.0 gameiwin68.link
 0.0.0.0 gamek8club.com
 0.0.0.0 gamequyong.site
 0.0.0.0 gamequyong.xyz
@@ -1576,6 +1618,7 @@
 0.0.0.0 giaitrinet88.live
 0.0.0.0 giaitriwin79.club
 0.0.0.0 giutcohon.sin88.biz
+0.0.0.0 gk88.xyz
 0.0.0.0 gnbet.vip
 0.0.0.0 go.12fifa2018.com
 0.0.0.0 go.bcb80.com
@@ -1583,9 +1626,11 @@
 0.0.0.0 go789.nl
 0.0.0.0 go789.to
 0.0.0.0 go88-vn.com
+0.0.0.0 go88.ca
 0.0.0.0 go88.cam
 0.0.0.0 go88.club
 0.0.0.0 go88.com
+0.0.0.0 go88.contractors
 0.0.0.0 go88.im
 0.0.0.0 go88.info
 0.0.0.0 go88.live
@@ -1632,10 +1677,12 @@
 0.0.0.0 h51.live
 0.0.0.0 happy9luck.com
 0.0.0.0 happynb.com
+0.0.0.0 hay88.mom
 0.0.0.0 hay88.net
 0.0.0.0 hay8811.com
 0.0.0.0 hay8822.com
 0.0.0.0 hb88.com
+0.0.0.0 hb88.party
 0.0.0.0 hb88013.com
 0.0.0.0 hb88016.com
 0.0.0.0 hb88017.com
@@ -1660,6 +1707,7 @@
 0.0.0.0 hcm66.com
 0.0.0.0 hi.oppa888.com
 0.0.0.0 hi88.chat
+0.0.0.0 hi88.de
 0.0.0.0 hi88.gd
 0.0.0.0 hi888.app
 0.0.0.0 hi88vip1.com
@@ -1677,7 +1725,12 @@
 0.0.0.0 hit38.club
 0.0.0.0 hit38.co
 0.0.0.0 hit68.net
+0.0.0.0 hitclub.blue
+0.0.0.0 hitclub.cafe
+0.0.0.0 hitclub.com
+0.0.0.0 hitclub.salon
 0.0.0.0 hitclub.top
+0.0.0.0 hitclub.vin
 0.0.0.0 hitclub.win
 0.0.0.0 hitgame.in
 0.0.0.0 hitlub.fun
@@ -1709,6 +1762,7 @@
 0.0.0.0 hstsc07cdn.com
 0.0.0.0 hucd0.com
 0.0.0.0 hx9119.com
+0.0.0.0 i.b52.club
 0.0.0.0 i.go88.org
 0.0.0.0 i.go88.top
 0.0.0.0 i.rik.vip
@@ -1716,6 +1770,7 @@
 0.0.0.0 i.win79.fun
 0.0.0.0 i1lnr.com
 0.0.0.0 i8bet.org
+0.0.0.0 i8fun.cc
 0.0.0.0 i9-bet.com
 0.0.0.0 i9.bet
 0.0.0.0 i9.hethongxacthuc.com
@@ -1843,6 +1898,7 @@
 0.0.0.0 id.sv388.mobi
 0.0.0.0 id.w88.vin
 0.0.0.0 im99.com
+0.0.0.0 image.lu88.co
 0.0.0.0 images.388bet.vip
 0.0.0.0 images.ku6110.net
 0.0.0.0 images.ku6131.net
@@ -1878,6 +1934,7 @@
 0.0.0.0 iwin.club
 0.0.0.0 iwin.info
 0.0.0.0 iwin.net
+0.0.0.0 iwin.uk
 0.0.0.0 iwin.us
 0.0.0.0 iwin10.club
 0.0.0.0 iwin12.club
@@ -1887,6 +1944,7 @@
 0.0.0.0 iwin888.com
 0.0.0.0 iwinapk.link
 0.0.0.0 iwinapplink.club
+0.0.0.0 iwinclub.agency
 0.0.0.0 iwinclub.onl
 0.0.0.0 iwinclub.win
 0.0.0.0 iwinclubvn.com
@@ -2031,12 +2089,14 @@
 0.0.0.0 jingbets.com
 0.0.0.0 jjfungame.com
 0.0.0.0 jss77.net
+0.0.0.0 jun88.buzz
 0.0.0.0 jun88.com
 0.0.0.0 jun88.tv
 0.0.0.0 jun889.vip
 0.0.0.0 jun88bet.biz
 0.0.0.0 jun88bet.xyz
 0.0.0.0 jun88k.com
+0.0.0.0 jun88trangchu.net
 0.0.0.0 jun88w.com
 0.0.0.0 justk8.com
 0.0.0.0 k1.uk88.top
@@ -3203,9 +3263,12 @@
 0.0.0.0 keonhacai-fun88.com
 0.0.0.0 keonhacai3.com
 0.0.0.0 keotot.net
+0.0.0.0 ketquasoso.net
 0.0.0.0 khamphasampham.cc
+0.0.0.0 khuyenmai.cloud
 0.0.0.0 khuyenmaibw.com
 0.0.0.0 kidslovemartialartsomahane.com
+0.0.0.0 kimsa.us
 0.0.0.0 kimsa1116.com
 0.0.0.0 kimsa338.com
 0.0.0.0 kimsa598.com
@@ -3260,11 +3323,13 @@
 0.0.0.0 ku6110.net
 0.0.0.0 ku6131.net
 0.0.0.0 ku777bet.com
+0.0.0.0 ku88.win
 0.0.0.0 ku888.one
 0.0.0.0 ku998.net
 0.0.0.0 kubet.ac
 0.0.0.0 kubet.ai
 0.0.0.0 kubet.biz
+0.0.0.0 kubet.fo
 0.0.0.0 kubet.gg
 0.0.0.0 kubet.kim
 0.0.0.0 kubet.life
@@ -3298,6 +3363,8 @@
 0.0.0.0 kuwaitfunddev.com
 0.0.0.0 kuwin.bet
 0.0.0.0 kuwin.com
+0.0.0.0 kuwin.digital
+0.0.0.0 kuwin.guide
 0.0.0.0 kuwinvip.com
 0.0.0.0 lambada-tx1app.fun
 0.0.0.0 lamgiau99.club
@@ -3363,12 +3430,14 @@
 0.0.0.0 lp.choiriikvip.today
 0.0.0.0 lp.choitet.vip
 0.0.0.0 lp.da88vn.win
+0.0.0.0 lp.dangkywi88.org
 0.0.0.0 lp.go8vui.info
 0.0.0.0 lp.macauclub.fun
 0.0.0.0 lp.mayclub.net
 0.0.0.0 lp.playrik79.site
 0.0.0.0 lp.rikvip.tv
 0.0.0.0 lp.rikvipp.net
+0.0.0.0 lp.sieub52.vip
 0.0.0.0 lp.sun6.win
 0.0.0.0 lp.sunwinvn.club
 0.0.0.0 lp.taiv8.top
@@ -3388,6 +3457,7 @@
 0.0.0.0 lt995.com
 0.0.0.0 lt997.com
 0.0.0.0 lu88.co
+0.0.0.0 lu88.com
 0.0.0.0 luciu.shop
 0.0.0.0 luck6.com
 0.0.0.0 luck8.com
@@ -3397,7 +3467,6 @@
 0.0.0.0 lucky678.com
 0.0.0.0 lucky696.com
 0.0.0.0 lucky816.com
-0.0.0.0 lucky823.com
 0.0.0.0 lucky88.bet
 0.0.0.0 lucky88.casino
 0.0.0.0 lucky88.cc
@@ -3565,6 +3634,7 @@
 0.0.0.0 maffiliate.w88club.com
 0.0.0.0 maint.v79top.com
 0.0.0.0 man.club
+0.0.0.0 man.top
 0.0.0.0 man.vip
 0.0.0.0 man1.club
 0.0.0.0 man79.org
@@ -3599,6 +3669,7 @@
 0.0.0.0 may88vn.top
 0.0.0.0 mayclub.net
 0.0.0.0 mayman.vuabai9.com
+0.0.0.0 mb66.com
 0.0.0.0 mb88.bet
 0.0.0.0 mb88.com
 0.0.0.0 mbx88.com
@@ -3623,6 +3694,36 @@
 0.0.0.0 minicasino.io
 0.0.0.0 minigame.vnloto.com
 0.0.0.0 minivn.com
+0.0.0.0 miso88.bet
+0.0.0.0 miso88.boats
+0.0.0.0 miso88.bz
+0.0.0.0 miso88.cam
+0.0.0.0 miso88.center
+0.0.0.0 miso88.com
+0.0.0.0 miso88.com.ph
+0.0.0.0 miso88.cool
+0.0.0.0 miso88.de
+0.0.0.0 miso88.email
+0.0.0.0 miso88.fit
+0.0.0.0 miso88.homes
+0.0.0.0 miso88.ink
+0.0.0.0 miso88.io
+0.0.0.0 miso88.life
+0.0.0.0 miso88.love
+0.0.0.0 miso88.ltd
+0.0.0.0 miso88.my
+0.0.0.0 miso88.net
+0.0.0.0 miso88.nl
+0.0.0.0 miso88.org
+0.0.0.0 miso88.pics
+0.0.0.0 miso88.red
+0.0.0.0 miso88.review
+0.0.0.0 miso88.site
+0.0.0.0 miso88.store
+0.0.0.0 miso88.watch
+0.0.0.0 miso88.work
+0.0.0.0 miso88.xyz
+0.0.0.0 miso88e.com
 0.0.0.0 missbet.com
 0.0.0.0 mix79.vip
 0.0.0.0 mk.support
@@ -3634,6 +3735,7 @@
 0.0.0.0 mobi.dibongda777.com
 0.0.0.0 mobi.oleviet777.com
 0.0.0.0 mobile.k8sport.com
+0.0.0.0 mocbai.cc
 0.0.0.0 mot88i.com
 0.0.0.0 moto88.win
 0.0.0.0 moto880.com
@@ -3699,9 +3801,15 @@
 0.0.0.0 nbet.vip
 0.0.0.0 nbet.win
 0.0.0.0 nbet88.org
+0.0.0.0 ne88.bet
 0.0.0.0 nearom.com
 0.0.0.0 nemo.vin
+0.0.0.0 neo79.org
+0.0.0.0 neo79.space
+0.0.0.0 neo79.us
 0.0.0.0 net88.ac
+0.0.0.0 net88.men
+0.0.0.0 net88.run
 0.0.0.0 net88.tv
 0.0.0.0 net88.vip
 0.0.0.0 new.vx88.com
@@ -3717,6 +3825,7 @@
 0.0.0.0 new8894.com
 0.0.0.0 new88w.com
 0.0.0.0 newk8.live
+0.0.0.0 news.ne88.bet
 0.0.0.0 nex8vn.com
 0.0.0.0 nextkhuyenmai.com
 0.0.0.0 ngwv0.com
@@ -3734,6 +3843,7 @@
 0.0.0.0 nhacaik8fun.com
 0.0.0.0 nhacaik8vn.net
 0.0.0.0 nhacailucky88.net
+0.0.0.0 nhacaipro.vip
 0.0.0.0 nhacaisodo.net
 0.0.0.0 nhacaisomot.com
 0.0.0.0 nhacaiuytin.life
@@ -3744,6 +3854,7 @@
 0.0.0.0 nhat.game
 0.0.0.0 nhat.it
 0.0.0.0 nhat1.club
+0.0.0.0 nhat9.vip
 0.0.0.0 nhatvip.mobi
 0.0.0.0 nhatvip.org
 0.0.0.0 nhatvip.us
@@ -3783,6 +3894,7 @@
 0.0.0.0 one88.com
 0.0.0.0 one88.fun
 0.0.0.0 one88.me
+0.0.0.0 one88.pro
 0.0.0.0 one88.top
 0.0.0.0 one88.tv
 0.0.0.0 one88.uk
@@ -3825,9 +3937,11 @@
 0.0.0.0 pc.vinbet1005.com
 0.0.0.0 pekqt.com
 0.0.0.0 phatloc88.club
+0.0.0.0 phatlocmiso.online
 0.0.0.0 piwik.12b99.com
 0.0.0.0 piwik.88thaicasinoslots.com
 0.0.0.0 pkwin1.com
+0.0.0.0 play.789.club
 0.0.0.0 play.b52.mobi
 0.0.0.0 play.b52.win
 0.0.0.0 play.b52m.club
@@ -3852,6 +3966,7 @@
 0.0.0.0 play.hit38.club
 0.0.0.0 play.hit38.co
 0.0.0.0 play.hit68.net
+0.0.0.0 play.hitclub.blue
 0.0.0.0 play.horse79.live
 0.0.0.0 play.im99.com
 0.0.0.0 play.iwin.net
@@ -3869,6 +3984,7 @@
 0.0.0.0 play.sbotop246.com
 0.0.0.0 play.son.club
 0.0.0.0 play.son5.club
+0.0.0.0 play.son8.club
 0.0.0.0 play.sum27.club
 0.0.0.0 play.sum4.club
 0.0.0.0 play.sum5.club
@@ -3916,6 +4032,7 @@
 0.0.0.0 playmay88.top
 0.0.0.0 playmay88.vin
 0.0.0.0 playrik79.site
+0.0.0.0 playson.link
 0.0.0.0 playuk88.win
 0.0.0.0 playv8.com
 0.0.0.0 playv8.vip
@@ -3970,6 +4087,7 @@
 0.0.0.0 qc.nhat.game
 0.0.0.0 qc.nhat.it
 0.0.0.0 qc.playmanclub.uk
+0.0.0.0 qc.tai789.icu
 0.0.0.0 qc.taimacau.club
 0.0.0.0 qc.thethao88.vin
 0.0.0.0 qc.top88.me
@@ -3995,6 +4113,7 @@
 0.0.0.0 qh250.com
 0.0.0.0 qh322.com
 0.0.0.0 qh52.com
+0.0.0.0 qh88.baby
 0.0.0.0 qh91.com
 0.0.0.0 qh99.com
 0.0.0.0 qq101.com
@@ -4095,6 +4214,9 @@
 0.0.0.0 s999e.com
 0.0.0.0 s999g.com
 0.0.0.0 s999h.com
+0.0.0.0 sa88.fans
+0.0.0.0 sa88.ltd
+0.0.0.0 sa88.my
 0.0.0.0 saigonbet.net
 0.0.0.0 sam86.zone
 0.0.0.0 sam86vip.org
@@ -4122,19 +4244,24 @@
 0.0.0.0 shbet.news
 0.0.0.0 shbet.rip
 0.0.0.0 shbet.site
+0.0.0.0 shbet.tours
 0.0.0.0 shbet.vin
 0.0.0.0 shbet.win
 0.0.0.0 shbet40.com
 0.0.0.0 shbet88.page
 0.0.0.0 shviet.com
 0.0.0.0 shviet0.com
+0.0.0.0 sieub52.vip
 0.0.0.0 sieubomtan.com
 0.0.0.0 sieubong88.info
 0.0.0.0 sieukeo.live
+0.0.0.0 sieutaixiu79.club
 0.0.0.0 sin88.bet
 0.0.0.0 sin88.biz
 0.0.0.0 sin88.cc
 0.0.0.0 sin88.club
+0.0.0.0 sin88.com
+0.0.0.0 sin88.me
 0.0.0.0 sin88.mn
 0.0.0.0 sin88.mobi
 0.0.0.0 sin88.mx
@@ -4184,6 +4311,7 @@
 0.0.0.0 soco88.com
 0.0.0.0 socvip.com
 0.0.0.0 socvip9.club
+0.0.0.0 sodo.bond
 0.0.0.0 sodo.host
 0.0.0.0 sodo02.com
 0.0.0.0 sodo100.com
@@ -4197,6 +4325,8 @@
 0.0.0.0 sodo3839.com
 0.0.0.0 sodo66.app
 0.0.0.0 sodo66.com
+0.0.0.0 sodo66.game
+0.0.0.0 sodo66.tours
 0.0.0.0 sodo668.net
 0.0.0.0 sodo678.com
 0.0.0.0 sodo6868.com
@@ -4208,6 +4338,7 @@
 0.0.0.0 solbet88.com
 0.0.0.0 son.club
 0.0.0.0 son5.club
+0.0.0.0 son8.club
 0.0.0.0 sping369.club
 0.0.0.0 sport.five88.biz
 0.0.0.0 sport.soc88.uk
@@ -4228,6 +4359,8 @@
 0.0.0.0 static.fabet.us
 0.0.0.0 static.fabet.vip
 0.0.0.0 static.fabetvn.com
+0.0.0.0 static.hi88.de
+0.0.0.0 static.lu88.com
 0.0.0.0 static.lucky88.com
 0.0.0.0 static.vx88.com
 0.0.0.0 static2.8live.com
@@ -4239,6 +4372,7 @@
 0.0.0.0 sukiensh.online
 0.0.0.0 sum.club
 0.0.0.0 sum27.club
+0.0.0.0 sum30.club
 0.0.0.0 sum4.club
 0.0.0.0 sum5.club
 0.0.0.0 sumclub1.xyz
@@ -4362,6 +4496,7 @@
 0.0.0.0 tai.yo88vn.us
 0.0.0.0 tai.you88.vin
 0.0.0.0 tai567live.vip
+0.0.0.0 tai789.icu
 0.0.0.0 tai789.net
 0.0.0.0 tai789.vip
 0.0.0.0 tai789.win
@@ -4388,6 +4523,7 @@
 0.0.0.0 taigamehay.site
 0.0.0.0 taigamehayvip.vip
 0.0.0.0 taigamehot.pro
+0.0.0.0 taigameiwin68.club
 0.0.0.0 taigamengay.biz
 0.0.0.0 taigamengay.click
 0.0.0.0 taigamengay.digital
@@ -4395,6 +4531,7 @@
 0.0.0.0 taigameslotsumvip50k.info
 0.0.0.0 taigamesunwin.vin
 0.0.0.0 taigamesunwin.vip
+0.0.0.0 taigameviet.mobi
 0.0.0.0 taigem79.net
 0.0.0.0 taigem79.win
 0.0.0.0 taigenvip.club
@@ -4410,6 +4547,7 @@
 0.0.0.0 taiiwin.vin
 0.0.0.0 taiiwinclub.cc
 0.0.0.0 taiiwinclub.vip
+0.0.0.0 taikhoan.tongdaga.me
 0.0.0.0 taikufun.com
 0.0.0.0 taimacao.club
 0.0.0.0 taimacao99.club
@@ -4457,6 +4595,7 @@
 0.0.0.0 taixiumd5dg.taisum2.com
 0.0.0.0 taixiusunwin.games
 0.0.0.0 taizom1.fun
+0.0.0.0 tamquocchiton.vn
 0.0.0.0 tangl0c.8day66.com
 0.0.0.0 tap88.club
 0.0.0.0 tbab395.com
@@ -4469,6 +4608,7 @@
 0.0.0.0 tdtc.vn
 0.0.0.0 tdtcyy.com
 0.0.0.0 tdtczz.com
+0.0.0.0 tele789.net
 0.0.0.0 tf2022v.com
 0.0.0.0 tf88265.com
 0.0.0.0 tf88632.com
@@ -4544,6 +4684,8 @@
 0.0.0.0 tjb22.net
 0.0.0.0 tk326.com
 0.0.0.0 tk777.vip
+0.0.0.0 tk88.family
+0.0.0.0 tk88.game
 0.0.0.0 tk88.in
 0.0.0.0 tk88.la
 0.0.0.0 tk88.rocks
@@ -4568,6 +4710,7 @@
 0.0.0.0 tk88s.com
 0.0.0.0 to188xj.com
 0.0.0.0 tobet88.net
+0.0.0.0 tongdaga.me
 0.0.0.0 tongga88.com
 0.0.0.0 tool.mibet.com
 0.0.0.0 top.bet20.bet
@@ -4583,6 +4726,7 @@
 0.0.0.0 top9nhacai.top
 0.0.0.0 topcc88.me
 0.0.0.0 topdoithuong.net
+0.0.0.0 topgamebai.biz
 0.0.0.0 topnhacaihot.com
 0.0.0.0 topnohu.com
 0.0.0.0 topzo.club
@@ -4601,6 +4745,7 @@
 0.0.0.0 trangchu2b.com
 0.0.0.0 trangchu2c.com
 0.0.0.0 trangchu2d.com
+0.0.0.0 trangweb.co
 0.0.0.0 tructiepdaga.info
 0.0.0.0 tructiepketqua.net
 0.0.0.0 trungso.vip
@@ -4620,6 +4765,7 @@
 0.0.0.0 tx.socvip9.club
 0.0.0.0 tx1.vip
 0.0.0.0 tydo88.com
+0.0.0.0 tysoeuro.online
 0.0.0.0 tz.bet20.bet
 0.0.0.0 tzzxt.com
 0.0.0.0 ud1a.com
@@ -4645,6 +4791,7 @@
 0.0.0.0 uw88vnn4.com
 0.0.0.0 uytin.8day66.com
 0.0.0.0 v.fa88.tv
+0.0.0.0 v.nhat9.vip
 0.0.0.0 v111w.com
 0.0.0.0 v112w.com
 0.0.0.0 v121w.com
@@ -4687,6 +4834,8 @@
 0.0.0.0 vb211.com
 0.0.0.0 vb777.co
 0.0.0.0 vb777.top
+0.0.0.0 vb88.com
+0.0.0.0 vb88.win
 0.0.0.0 vbet88.fun
 0.0.0.0 vebo.bet
 0.0.0.0 vegas79.casino
@@ -4723,6 +4872,7 @@
 0.0.0.0 vin777.blog
 0.0.0.0 vin777.co
 0.0.0.0 vin777.work
+0.0.0.0 vin88.com
 0.0.0.0 vin999.fun
 0.0.0.0 vina88.net
 0.0.0.0 vinalottery.com
@@ -4742,6 +4892,7 @@
 0.0.0.0 vip79.vip
 0.0.0.0 vip79.win
 0.0.0.0 vip79gamebai.vip
+0.0.0.0 vip88.click
 0.0.0.0 vipbet001.org
 0.0.0.0 vipbet998.com
 0.0.0.0 vipclub.homes
@@ -4750,6 +4901,8 @@
 0.0.0.0 vipgame.cloud
 0.0.0.0 viprik.click
 0.0.0.0 viprik.pro
+0.0.0.0 vipsodo.info
+0.0.0.0 vipsodo.top
 0.0.0.0 viu88.com
 0.0.0.0 viva88.com
 0.0.0.0 viva88.net
@@ -4806,6 +4959,7 @@
 0.0.0.0 vn88.casino
 0.0.0.0 vn88.club
 0.0.0.0 vn88.com
+0.0.0.0 vn88.fun
 0.0.0.0 vn88.io
 0.0.0.0 vn88.mobi
 0.0.0.0 vn887.com
@@ -4871,8 +5025,21 @@
 0.0.0.0 vua88.club
 0.0.0.0 vuabai9.com
 0.0.0.0 vuabai9vn.com
+0.0.0.0 vuabet.com
+0.0.0.0 vuabet88.agency
+0.0.0.0 vuabet88.app
+0.0.0.0 vuabet88.cloud
+0.0.0.0 vuabet88.cx
+0.0.0.0 vuabet88.dev
+0.0.0.0 vuabet88.gold
+0.0.0.0 vuabet88.ist
+0.0.0.0 vuabet88.name
 0.0.0.0 vuabet88.org
+0.0.0.0 vuabet88.pro
+0.0.0.0 vuabet88.shop
 0.0.0.0 vuaclub1008.club
+0.0.0.0 vuagaaz.ceo
+0.0.0.0 vuagaaz.one
 0.0.0.0 vue.ooooooo2.com
 0.0.0.0 vui.fun
 0.0.0.0 vuicungk8.com
@@ -5005,6 +5172,7 @@
 0.0.0.0 web.0000130.com
 0.0.0.0 web.130casino.com
 0.0.0.0 web.68rich.com
+0.0.0.0 web.choigametip.org
 0.0.0.0 web.hit.club
 0.0.0.0 web.hitclub.top
 0.0.0.0 web.hitlub.fun
@@ -5067,10 +5235,12 @@
 0.0.0.0 wingame1688.com
 0.0.0.0 wingo88.vin
 0.0.0.0 wintbr.com
+0.0.0.0 winvn.app
+0.0.0.0 winvn.bet
+0.0.0.0 winvn.club
 0.0.0.0 winvn.vip
 0.0.0.0 winvn13.com
 0.0.0.0 winvn15.com
-0.0.0.0 winvn16.com
 0.0.0.0 winvn17.com
 0.0.0.0 winvn18.com
 0.0.0.0 wm88viet.com
@@ -5508,6 +5678,7 @@
 0.0.0.0 www.mibet88.com
 0.0.0.0 www.minicasino.io
 0.0.0.0 www.minivn.com
+0.0.0.0 www.mocbai.cc
 0.0.0.0 www.ms3388.com
 0.0.0.0 www.ms88asia.com
 0.0.0.0 www.ms88ca.com
@@ -5752,7 +5923,6 @@
 0.0.0.0 www.wingame1688.com
 0.0.0.0 www.winvn13.com
 0.0.0.0 www.winvn15.com
-0.0.0.0 www.winvn16.com
 0.0.0.0 www.winvn17.com
 0.0.0.0 www.winvn18.com
 0.0.0.0 www.ww88club.com
@@ -8525,9 +8695,9 @@
 0.0.0.0 everbet.bg
 0.0.0.0 slotino.bg
 # Title: hostsVN Adult
-# Last modified: 23 Oct 2024 22:07 UTC+7
-# Version: 2410232207
-# Blocked: 3,598 domains
+# Last modified: 24 Nov 2024 11:45 UTC+7
+# Version: 2411241145
+# Blocked: 3,796 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -8554,6 +8724,7 @@
 0.0.0.0 24hchudu.com
 0.0.0.0 24hphimsex.com
 0.0.0.0 28363.one
+0.0.0.0 2click.goidao.com
 0.0.0.0 2jav.net
 0.0.0.0 2ola.pro
 0.0.0.0 303cc.xyz
@@ -8577,6 +8748,7 @@
 0.0.0.0 5sex.maulon.pro
 0.0.0.0 6666.net
 0.0.0.0 6789live.com
+0.0.0.0 69chichgaixinh.one
 0.0.0.0 7776666.net
 0.0.0.0 7sex.org
 0.0.0.0 820mm.live
@@ -8594,6 +8766,7 @@
 0.0.0.0 alogai24.xyz
 0.0.0.0 alogaidep.xyz
 0.0.0.0 alogaigoi.com
+0.0.0.0 alogaigoidem.com
 0.0.0.0 alogirlxinh.com
 0.0.0.0 alohang.xyz
 0.0.0.0 alohi.xyz
@@ -8631,14 +8804,20 @@
 0.0.0.0 automarket43.ru
 0.0.0.0 avhd.cc
 0.0.0.0 avhd.mobi
+0.0.0.0 azav.tv
 0.0.0.0 b2branked.com
 0.0.0.0 badtopsex.com
+0.0.0.0 banhbeo.net
 0.0.0.0 bantinh.xyz
 0.0.0.0 bb11.live
 0.0.0.0 bblive.org
 0.0.0.0 bblive17.vip
 0.0.0.0 bblive6.vip
 0.0.0.0 bemup.biz
+0.0.0.0 bimdep.net
+0.0.0.0 bimdep.vip
+0.0.0.0 bimhong.net
+0.0.0.0 bimmup.tv
 0.0.0.0 bimxinh.com
 0.0.0.0 bimxinh.net
 0.0.0.0 biphim18.com
@@ -8649,9 +8828,11 @@
 0.0.0.0 boymoviedome.com
 0.0.0.0 boyngon.com
 0.0.0.0 bucac.net
+0.0.0.0 bulon.net
 0.0.0.0 buoito.vip
 0.0.0.0 buom.tv
 0.0.0.0 buomdep.pro
+0.0.0.0 buomhay.com
 0.0.0.0 buomhot.com
 0.0.0.0 buomsex.com
 0.0.0.0 buomtv.tv
@@ -8676,9 +8857,11 @@
 0.0.0.0 checkerviet.bet
 0.0.0.0 checkerviet.bid
 0.0.0.0 checkerviet.bz
+0.0.0.0 checkerviet.cc
 0.0.0.0 checkerviet.fan
 0.0.0.0 checkerviet.fun
 0.0.0.0 checkerviet.one
+0.0.0.0 checkerviet.us
 0.0.0.0 checkgaigoi.cc
 0.0.0.0 checkgaigoi.co
 0.0.0.0 checkgaigoi.info
@@ -8710,8 +8893,13 @@
 0.0.0.0 chichlive.tumblr.com
 0.0.0.0 chichlivehd.online
 0.0.0.0 chichlivemobi.contently.com
+0.0.0.0 chichnhau.club
+0.0.0.0 chichnhau.mobi
+0.0.0.0 chichnhau.tube
+0.0.0.0 chichnhau.vip
 0.0.0.0 chigaicodon.xyz
 0.0.0.0 chim18.xyz
+0.0.0.0 chimchuot.com
 0.0.0.0 chimlon.net
 0.0.0.0 chogai.net
 0.0.0.0 chogai.xyz
@@ -8719,14 +8907,20 @@
 0.0.0.0 choidangcap.org
 0.0.0.0 choidangcap.pro
 0.0.0.0 choidangcap.us
+0.0.0.0 choidangcap11.cc
+0.0.0.0 choidangcap12.cc
+0.0.0.0 choidangcap5.cc
 0.0.0.0 choiemdi.com
 0.0.0.0 choigai.xyz
 0.0.0.0 choigaigoi.com
 0.0.0.0 choitrai.com
 0.0.0.0 choitrai.net
+0.0.0.0 chongtoico.link
 0.0.0.0 chongtoico.org
 0.0.0.0 chuoito.com
 0.0.0.0 clip-sex.biz
+0.0.0.0 clip-sex.net
+0.0.0.0 clip3x.info
 0.0.0.0 clip3xxx.com
 0.0.0.0 clipcave.xyz
 0.0.0.0 clipchich.com
@@ -8742,8 +8936,10 @@
 0.0.0.0 cliphang.xyz
 0.0.0.0 cliphangdep.xyz
 0.0.0.0 cliphot-vn.com
+0.0.0.0 cliphot.bet
 0.0.0.0 cliphot.biz
 0.0.0.0 cliphot.cc
+0.0.0.0 cliphot.co
 0.0.0.0 cliphot.live
 0.0.0.0 cliphot.lol
 0.0.0.0 cliphot.me
@@ -8753,11 +8949,14 @@
 0.0.0.0 cliphot69.blog
 0.0.0.0 cliphot69.cc
 0.0.0.0 cliphot69.life
+0.0.0.0 cliphot69.one
 0.0.0.0 cliphot69.org
 0.0.0.0 cliphot69.win
 0.0.0.0 cliphotne.com
+0.0.0.0 cliphotnew.net
 0.0.0.0 cliphotqua.com
 0.0.0.0 cliphotvn.com
+0.0.0.0 cliphotvn.info
 0.0.0.0 cliphotvn.org
 0.0.0.0 cliphubs.com
 0.0.0.0 clipkhoe.xyz
@@ -8777,6 +8976,7 @@
 0.0.0.0 clipnong18.com
 0.0.0.0 clipnong24h.com
 0.0.0.0 clipnongmobi.com
+0.0.0.0 clipphot.net
 0.0.0.0 clipquaylen.net
 0.0.0.0 clipscandal.xyz
 0.0.0.0 clipsex.cam
@@ -8791,10 +8991,12 @@
 0.0.0.0 clipsexhay.org
 0.0.0.0 clipsexhay.pro
 0.0.0.0 clipsexhot.org
+0.0.0.0 clipsexhot3x.net
 0.0.0.0 clipsexmoi.com
 0.0.0.0 clipsexnhatban.top
 0.0.0.0 clipsextop.com
 0.0.0.0 clipsextv.net
+0.0.0.0 clipsextv.one
 0.0.0.0 clipsexviet.live
 0.0.0.0 clipsexviet.top
 0.0.0.0 clipsexviet.xyz
@@ -8820,6 +9022,7 @@
 0.0.0.0 comics24hx.com
 0.0.0.0 comicz.co
 0.0.0.0 condau.net
+0.0.0.0 congdongx.com
 0.0.0.0 contrinh.net
 0.0.0.0 cphimsex.pro
 0.0.0.0 crownlive.net
@@ -8891,6 +9094,7 @@
 0.0.0.0 doctruyen3qvn.com
 0.0.0.0 doctruyennguoilonhay.blogspot.com
 0.0.0.0 doctruyennguoilonvl.wordpress.com
+0.0.0.0 doctruyensex.pro
 0.0.0.0 dokatehnik.ru
 0.0.0.0 donggai.pro
 0.0.0.0 dongtoico.co
@@ -8912,6 +9116,7 @@
 0.0.0.0 dutrai.com
 0.0.0.0 emdau.pro
 0.0.0.0 emgai.net
+0.0.0.0 emgaigoi.com
 0.0.0.0 emgaixinh.one
 0.0.0.0 emmiu.art
 0.0.0.0 emodayne.live
@@ -8968,10 +9173,14 @@
 0.0.0.0 gaigoi.icu
 0.0.0.0 gaigoi.link
 0.0.0.0 gaigoi.live
+0.0.0.0 gaigoi.win
+0.0.0.0 gaigoi.ws
 0.0.0.0 gaigoi18.biz
 0.0.0.0 gaigoi18.site
+0.0.0.0 gaigoi2.checkerviet.cc
 0.0.0.0 gaigoi24h.net
 0.0.0.0 gaigoi33.xyz
+0.0.0.0 gaigoi79.top
 0.0.0.0 gaigoi9.com
 0.0.0.0 gaigoialo.com
 0.0.0.0 gaigoiangiang.xyz
@@ -8979,6 +9188,7 @@
 0.0.0.0 gaigoibaclieu.xyz
 0.0.0.0 gaigoibentre.xyz
 0.0.0.0 gaigoibienhoadongnai.xyz
+0.0.0.0 gaigoibinhduong.vncns.com
 0.0.0.0 gaigoicamau.xyz
 0.0.0.0 gaigoicantho.xyz
 0.0.0.0 gaigoicave.xyz
@@ -8995,15 +9205,21 @@
 0.0.0.0 gaigoidep.site
 0.0.0.0 gaigoidep.xyz
 0.0.0.0 gaigoidongthap.xyz
+0.0.0.0 gaigoidulich.info
 0.0.0.0 gaigoigiare.com
 0.0.0.0 gaigoihaiphong.gonevis.com
+0.0.0.0 gaigoihaiphong.vncns.com
+0.0.0.0 gaigoihanoi.club
 0.0.0.0 gaigoihanoi.icu
 0.0.0.0 gaigoihanoi.info
 0.0.0.0 gaigoihanoi.net
 0.0.0.0 gaigoihanoi.one
 0.0.0.0 gaigoihanoi.pro
+0.0.0.0 gaigoihanoi.vip
 0.0.0.0 gaigoihanoivip.com
 0.0.0.0 gaigoihanoivip.vncns.com
+0.0.0.0 gaigoihanoivip1.vncns.com
+0.0.0.0 gaigoihanoivip2.vncns.com
 0.0.0.0 gaigoihaugiang.xyz
 0.0.0.0 gaigoihn.com
 0.0.0.0 gaigoihue.link
@@ -9024,27 +9240,35 @@
 0.0.0.0 gaigoilauxanh.xyz
 0.0.0.0 gaigoilongan.xyz
 0.0.0.0 gaigoimientay.xyz
+0.0.0.0 gaigoingon.net
+0.0.0.0 gaigoinhanh.ggvn.me
+0.0.0.0 gaigoinhanh1.com
 0.0.0.0 gaigoinhatrang.com
 0.0.0.0 gaigoinhatrang.link
 0.0.0.0 gaigoinhatrang.xyz
+0.0.0.0 gaigoiok.com
 0.0.0.0 gaigoionline.click
 0.0.0.0 gaigoionline.info
 0.0.0.0 gaigoionline.link
 0.0.0.0 gaigoionline.live
 0.0.0.0 gaigoionline.xyz
 0.0.0.0 gaigoipho.xyz
+0.0.0.0 gaigoiquanhday.net
+0.0.0.0 gaigoisaigon.vncns.com
 0.0.0.0 gaigoisaigon.xyz
 0.0.0.0 gaigoisinhvien.xyz
 0.0.0.0 gaigoisoctrang.xyz
 0.0.0.0 gaigoitayninh.xyz
 0.0.0.0 gaigoitelegram.xyz
 0.0.0.0 gaigoitiengiang.xyz
+0.0.0.0 gaigoitop.com
 0.0.0.0 gaigoitop.xyz
 0.0.0.0 gaigoituoi17.xyz
 0.0.0.0 gaigoituoi18.fun
 0.0.0.0 gaigoituoi18.link
 0.0.0.0 gaigoituoi18.xyz
 0.0.0.0 gaigoiviet.info
+0.0.0.0 gaigoivietnamx.com
 0.0.0.0 gaigoivinhlong.xyz
 0.0.0.0 gaigoivip.info
 0.0.0.0 gaigoivip.live
@@ -9052,20 +9276,29 @@
 0.0.0.0 gaigoivip.pro
 0.0.0.0 gaigoivip.site
 0.0.0.0 gaigoivip247.com
+0.0.0.0 gaigoivip2k.com
+0.0.0.0 gaigoivipvn.com
 0.0.0.0 gaigoivn.club
+0.0.0.0 gaigoix.com
 0.0.0.0 gaigoixinh.me
 0.0.0.0 gaigoixx.xyz
+0.0.0.0 gaigoiz.com
+0.0.0.0 gaigu.net
 0.0.0.0 gaigu.to
 0.0.0.0 gaigu.xyz
 0.0.0.0 gaigu1.tv
 0.0.0.0 gaigu26.tv
+0.0.0.0 gaigu31.tv
 0.0.0.0 gaigu6.tv
 0.0.0.0 gaigu7.tv
+0.0.0.0 gaigu8.com
 0.0.0.0 gaigu8.tv
+0.0.0.0 gaigutv.club
 0.0.0.0 gaigutv.net
 0.0.0.0 gaigutv.org
 0.0.0.0 gaigutv.top
 0.0.0.0 gaigutv.vip
+0.0.0.0 gaiguvietnam1.com
 0.0.0.0 gaihongdao.xyz
 0.0.0.0 gaikhoehang.com
 0.0.0.0 gaikiemdinh.fun
@@ -9092,9 +9325,11 @@
 0.0.0.0 gaionline.xyz
 0.0.0.0 gaisex.me
 0.0.0.0 gaisex.net
+0.0.0.0 gaisex.org
 0.0.0.0 gaisex.top
 0.0.0.0 gaithudam.org
 0.0.0.0 gaito.life
+0.0.0.0 gaito.so
 0.0.0.0 gaito.xyz
 0.0.0.0 gaitop.click
 0.0.0.0 gaitop.link
@@ -9136,6 +9371,7 @@
 0.0.0.0 gay3x.tv
 0.0.0.0 gayhd.tv
 0.0.0.0 gaysex69.net
+0.0.0.0 genzsex.today
 0.0.0.0 ggvn.xyz
 0.0.0.0 ghepdoi.site
 0.0.0.0 girl3x.xyz
@@ -9160,6 +9396,12 @@
 0.0.0.0 hangkhung.club
 0.0.0.0 hangngon.pro
 0.0.0.0 hangto.club
+0.0.0.0 hanoi4.vipviet.net
+0.0.0.0 hanoivip.comvn.me
+0.0.0.0 hanoivip.vnav.me
+0.0.0.0 hanoivip.vnzz.me
+0.0.0.0 hanoivip1.vncns.com
+0.0.0.0 hanoivip2.vncns.com
 0.0.0.0 hardcore3000.com
 0.0.0.0 hay3x.tv
 0.0.0.0 hay3x.vip
@@ -9169,7 +9411,9 @@
 0.0.0.0 hayjav.com
 0.0.0.0 hayphimsex.net
 0.0.0.0 haysex.net
+0.0.0.0 haysex.plus
 0.0.0.0 haysex.xyz
+0.0.0.0 haysex3xyz.net
 0.0.0.0 hayvkl.xyz
 0.0.0.0 hayvl.pro
 0.0.0.0 hd.viet69.click
@@ -9199,14 +9443,20 @@
 0.0.0.0 hentaiaz.net
 0.0.0.0 hentaicb.top
 0.0.0.0 hentaicb.xyz
+0.0.0.0 hentaidm.com
 0.0.0.0 hentaihub.pro
 0.0.0.0 hentaimanhwa.net
 0.0.0.0 hentaimoi.com
 0.0.0.0 hentaipro.tv
+0.0.0.0 hentaisub.blog
 0.0.0.0 hentaisub.live
+0.0.0.0 hentaisub.org
+0.0.0.0 hentaitv.app
 0.0.0.0 hentaitvn.net
+0.0.0.0 hentaivcl.com
 0.0.0.0 hentaivip.biz
 0.0.0.0 hentaivip.pro
+0.0.0.0 hentaivl.org
 0.0.0.0 hentaivl.tv
 0.0.0.0 hentaivl.vip
 0.0.0.0 hentaivlv.com
@@ -9269,6 +9519,7 @@
 0.0.0.0 heohay.com
 0.0.0.0 heohd.com
 0.0.0.0 heomup.net
+0.0.0.0 heotop.com
 0.0.0.0 heotop1.net
 0.0.0.0 heotv.net
 0.0.0.0 heoviet.com
@@ -9280,6 +9531,7 @@
 0.0.0.0 heovl.live
 0.0.0.0 heovl.me
 0.0.0.0 heovl.net
+0.0.0.0 heovl.tube
 0.0.0.0 heovl.tv
 0.0.0.0 heovl1.com
 0.0.0.0 heovl1.net
@@ -9312,6 +9564,7 @@
 0.0.0.0 i3.hhentai.net
 0.0.0.0 i998.co
 0.0.0.0 icehdv.com
+0.0.0.0 ihentai.fun
 0.0.0.0 img.hentaivv1.com
 0.0.0.0 img.heozz.net
 0.0.0.0 img.javsubz.net
@@ -9323,6 +9576,7 @@
 0.0.0.0 info.xnxx.gold
 0.0.0.0 ishg.xyz
 0.0.0.0 japanhdv.biz
+0.0.0.0 japansex.blog
 0.0.0.0 jav-hay.com
 0.0.0.0 jav-phim.com
 0.0.0.0 jav.ffmgu.ru
@@ -9367,6 +9621,7 @@
 0.0.0.0 javhay.to
 0.0.0.0 javhay.vip
 0.0.0.0 javhay.xxx
+0.0.0.0 javhay1.com
 0.0.0.0 javhaytop.net
 0.0.0.0 javhayz.cc
 0.0.0.0 javhayz.com
@@ -9456,6 +9711,7 @@
 0.0.0.0 javsub.online
 0.0.0.0 javsub.wiki
 0.0.0.0 javsub.xyz
+0.0.0.0 javsub18.net
 0.0.0.0 javsubmoi.net
 0.0.0.0 javsubz.com
 0.0.0.0 javsubz.net
@@ -9474,6 +9730,7 @@
 0.0.0.0 javvietsub.biz
 0.0.0.0 javvietsub.city
 0.0.0.0 javvietsub.me
+0.0.0.0 javvn.info
 0.0.0.0 javvn.me
 0.0.0.0 javvn.online
 0.0.0.0 javvn.org
@@ -9505,6 +9762,7 @@
 0.0.0.0 khattinh.tech
 0.0.0.0 khieudam.club
 0.0.0.0 khoailac.net
+0.0.0.0 khoaito.net
 0.0.0.0 khoanhgaixinh.com
 0.0.0.0 khoanhnguoinoitieng.blogspot.com
 0.0.0.0 khohieu.com
@@ -9531,6 +9789,7 @@
 0.0.0.0 kieunuvadaigia.live
 0.0.0.0 kieunuvadaigia.xyz
 0.0.0.0 kieunuviet.xyz
+0.0.0.0 kieunuxinh.net
 0.0.0.0 kphimsex.xyz
 0.0.0.0 ktv.bio
 0.0.0.0 kute3x.net
@@ -9538,11 +9797,19 @@
 0.0.0.0 kynudanang.link
 0.0.0.0 kynudanang.xyz
 0.0.0.0 kynudep.com
+0.0.0.0 kynudep.net
 0.0.0.0 kynukiemdinh.fun
 0.0.0.0 kynukiemdinh.link
 0.0.0.0 kynukiemdinh.net
 0.0.0.0 kynukiemdinhx.xyz
+0.0.0.0 kynuviet.baby
+0.0.0.0 kynuviet.bid
+0.0.0.0 kynuviet.city
+0.0.0.0 kynuviet.fan
+0.0.0.0 kynuviet.men
 0.0.0.0 kynuviet.net
+0.0.0.0 kynuviet.plus
+0.0.0.0 kynuviet.zone
 0.0.0.0 lala69.com
 0.0.0.0 laugai.net
 0.0.0.0 lauxanh.me
@@ -9567,6 +9834,8 @@
 0.0.0.0 loanluan.top
 0.0.0.0 loanluanx.com
 0.0.0.0 loclipnong.com
+0.0.0.0 loclipnong.xyz
+0.0.0.0 loclipsex.net
 0.0.0.0 lon2k.com
 0.0.0.0 lon88.com
 0.0.0.0 lon88.sex
@@ -9675,6 +9944,7 @@
 0.0.0.0 mobiblog.cc
 0.0.0.0 mobiblog.dev
 0.0.0.0 mobiblog.io
+0.0.0.0 mobiblog.love
 0.0.0.0 mobiblog.net
 0.0.0.0 mobiblog.top
 0.0.0.0 mobiblog.us
@@ -9736,11 +10006,17 @@
 0.0.0.0 pheclip.co
 0.0.0.0 pheclip.com
 0.0.0.0 pheclip.net
+0.0.0.0 pheclip.one
 0.0.0.0 pheloi.com
 0.0.0.0 phesex.pro
 0.0.0.0 phesex.vip
+0.0.0.0 phevkl.blog
 0.0.0.0 phevkl.com
+0.0.0.0 phevkl.fun
+0.0.0.0 phevkl.link
 0.0.0.0 phevkl.me
+0.0.0.0 phevkl.mx
+0.0.0.0 phevkl.my
 0.0.0.0 phevklz.com
 0.0.0.0 phichthu.club
 0.0.0.0 phim-heo.cc
@@ -9845,6 +10121,7 @@
 0.0.0.0 phimhdsex.com
 0.0.0.0 phimhentai.biz
 0.0.0.0 phimhentai.cyou
+0.0.0.0 phimhentai.info
 0.0.0.0 phimhentai.pro
 0.0.0.0 phimhentai.xyz
 0.0.0.0 phimheo.biz
@@ -9871,6 +10148,7 @@
 0.0.0.0 phimheovietnam.info
 0.0.0.0 phimheovietnam.xyz
 0.0.0.0 phimheovip.com
+0.0.0.0 phimheovl.blog
 0.0.0.0 phimheovl.net
 0.0.0.0 phimheovn.biz
 0.0.0.0 phimheovn.cc
@@ -9884,6 +10162,7 @@
 0.0.0.0 phimhinh.top
 0.0.0.0 phimii.net
 0.0.0.0 phimixxx.com
+0.0.0.0 phimjapan.vip
 0.0.0.0 phimjav.club
 0.0.0.0 phimjav.net
 0.0.0.0 phimjav.plus
@@ -9959,6 +10238,7 @@
 0.0.0.0 phimset.cc
 0.0.0.0 phimset.cyou
 0.0.0.0 phimset.live
+0.0.0.0 phimset.lol
 0.0.0.0 phimset.me
 0.0.0.0 phimset.mobi
 0.0.0.0 phimset.net
@@ -10014,8 +10294,10 @@
 0.0.0.0 phimsex17.com
 0.0.0.0 phimsex18.pro
 0.0.0.0 phimsex18.top
+0.0.0.0 phimsex18a.net
 0.0.0.0 phimsex18tv.net
 0.0.0.0 phimsex19.com
+0.0.0.0 phimsex1z.net
 0.0.0.0 phimsex2022.org
 0.0.0.0 phimsex21.xyz
 0.0.0.0 phimsex29.net
@@ -10081,6 +10363,7 @@
 0.0.0.0 phimsexday.pro
 0.0.0.0 phimsexdep.net
 0.0.0.0 phimsexdep.pro
+0.0.0.0 phimsexdidong.net
 0.0.0.0 phimsexdit.pro
 0.0.0.0 phimsexdit.top
 0.0.0.0 phimsexditnhau.com
@@ -10166,6 +10449,7 @@
 0.0.0.0 phimsexhd.org
 0.0.0.0 phimsexhd.tube
 0.0.0.0 phimsexhd.video
+0.0.0.0 phimsexhd123.com
 0.0.0.0 phimsexhd123.net
 0.0.0.0 phimsexhd2k.com
 0.0.0.0 phimsexhd69.pro
@@ -10291,6 +10575,7 @@
 0.0.0.0 phimsexonlines.com
 0.0.0.0 phimsexphap.net
 0.0.0.0 phimsexphe.com
+0.0.0.0 phimsexphude.net
 0.0.0.0 phimsexporn.tv
 0.0.0.0 phimsexpro.info
 0.0.0.0 phimsexpro.me
@@ -10401,6 +10686,7 @@
 0.0.0.0 phimssex.net
 0.0.0.0 phimtcc.com
 0.0.0.0 phimthudam.top
+0.0.0.0 phimtoico.com
 0.0.0.0 phimtop.pro
 0.0.0.0 phimtop1.pro
 0.0.0.0 phimtrantrui.com
@@ -10454,6 +10740,7 @@
 0.0.0.0 phimxxhd.me
 0.0.0.0 phimxxnx.net
 0.0.0.0 phimxxx.asia
+0.0.0.0 phimxxx.ink
 0.0.0.0 phimxxx.io
 0.0.0.0 phimxxx.link
 0.0.0.0 phimxxx.live
@@ -10483,6 +10770,7 @@
 0.0.0.0 phimyy.me
 0.0.0.0 phimyy.vip
 0.0.0.0 phimyz.com
+0.0.0.0 phodacbiet.club
 0.0.0.0 phodem.link
 0.0.0.0 phodem.xyz
 0.0.0.0 phodendo.xyz
@@ -10526,12 +10814,20 @@
 0.0.0.0 qq892.live
 0.0.0.0 qqlive.cc
 0.0.0.0 qqlives.app
+0.0.0.0 quatvn.bet
 0.0.0.0 quatvn.cc
+0.0.0.0 quatvn.click
 0.0.0.0 quatvn.club
+0.0.0.0 quatvn.fit
 0.0.0.0 quatvn.fun
 0.0.0.0 quatvn.in
 0.0.0.0 quatvn.link
 0.0.0.0 quatvn.net
+0.0.0.0 quatvn.plus
+0.0.0.0 quatvn.skin
+0.0.0.0 quatvn.stream
+0.0.0.0 quatvn.video
+0.0.0.0 quatvn2.com
 0.0.0.0 quaylen.me
 0.0.0.0 quaylen.org
 0.0.0.0 quaytay.net
@@ -10542,7 +10838,14 @@
 0.0.0.0 rauvn.net
 0.0.0.0 reviewxx.net
 0.0.0.0 ribaysteak.ru
+0.0.0.0 rphang.ac
 0.0.0.0 rphang.cc
+0.0.0.0 rphang.ch
+0.0.0.0 rphang.dog
+0.0.0.0 rphang.lat
+0.0.0.0 rphang.luutrurp.com
+0.0.0.0 rphang.me
+0.0.0.0 rphang.my
 0.0.0.0 rphang.online
 0.0.0.0 rphangcdn.com
 0.0.0.0 rphangs.net
@@ -10570,16 +10873,19 @@
 0.0.0.0 secvn.net
 0.0.0.0 sethay.com
 0.0.0.0 sex-com.pro
+0.0.0.0 sex-hay.net
 0.0.0.0 sex-hay.org
 0.0.0.0 sex-hayhd.com
 0.0.0.0 sex-hd.co
 0.0.0.0 sex-hd.pro
 0.0.0.0 sex-heo.xyz
+0.0.0.0 sex-jav.net
 0.0.0.0 sex-jav.pro
 0.0.0.0 sex-jav.xyz
 0.0.0.0 sex-lon.me
 0.0.0.0 sex-moi.pro
 0.0.0.0 sex-ngon.net
+0.0.0.0 sex-ngon.org
 0.0.0.0 sex-nhanh.pro
 0.0.0.0 sex-nhat.com
 0.0.0.0 sex-phim.net
@@ -10588,6 +10894,7 @@
 0.0.0.0 sex-top1.pro
 0.0.0.0 sex-viet-nam.net
 0.0.0.0 sex-viet.pro
+0.0.0.0 sex-vip.lol
 0.0.0.0 sex-xxx.me
 0.0.0.0 sex.2ola.pro
 0.0.0.0 sex.javhay.click
@@ -10611,6 +10918,7 @@
 0.0.0.0 sex21.vip
 0.0.0.0 sex2k.me
 0.0.0.0 sex2k.org
+0.0.0.0 sex3.net
 0.0.0.0 sex3.vip
 0.0.0.0 sex33.net
 0.0.0.0 sex333.xyz
@@ -10722,6 +11030,7 @@
 0.0.0.0 sexgaidam.com
 0.0.0.0 sexgaidep.net
 0.0.0.0 sexgaii.net
+0.0.0.0 sexgaimup.net
 0.0.0.0 sexgaiviet.com
 0.0.0.0 sexgaiviet.net
 0.0.0.0 sexgaixinh.biz
@@ -10792,11 +11101,13 @@
 0.0.0.0 sexheo69.net
 0.0.0.0 sexheodem.com
 0.0.0.0 sexheodem.info
+0.0.0.0 sexheovl.ink
 0.0.0.0 sexheovl.net
 0.0.0.0 sexhi88.com
 0.0.0.0 sexhiep.net
 0.0.0.0 sexhihi.day
 0.0.0.0 sexhihi.info
+0.0.0.0 sexhihi.live
 0.0.0.0 sexhihi.me
 0.0.0.0 sexhihi.plus
 0.0.0.0 sexhihi.pro
@@ -10804,6 +11115,7 @@
 0.0.0.0 sexhihi69.pro
 0.0.0.0 sexhihihi.net
 0.0.0.0 sexhihii.net
+0.0.0.0 sexhihiz.cc
 0.0.0.0 sexhihiz.net
 0.0.0.0 sexhocsinh.top
 0.0.0.0 sexhome.pro
@@ -10820,6 +11132,7 @@
 0.0.0.0 sexkhongche5.cyou
 0.0.0.0 sexkhongchehd.com
 0.0.0.0 sexkhongchenhatban.top
+0.0.0.0 sexkoche.net
 0.0.0.0 sexkoche.org
 0.0.0.0 sexkoche.pro
 0.0.0.0 sexktv.net
@@ -10828,6 +11141,7 @@
 0.0.0.0 sexlauxanh.pro
 0.0.0.0 sexlen.com
 0.0.0.0 sexlenlut.com
+0.0.0.0 sexlenlut.pro
 0.0.0.0 sexliemlon.pro
 0.0.0.0 sexlo.net
 0.0.0.0 sexloanluan.cc
@@ -10907,6 +11221,7 @@
 0.0.0.0 sexnunglon.pro
 0.0.0.0 sexnusinh.net
 0.0.0.0 sexnxx.pro
+0.0.0.0 sexonline.blog
 0.0.0.0 sexphim-hd.pro
 0.0.0.0 sexphim.cc
 0.0.0.0 sexphim.club
@@ -10961,6 +11276,7 @@
 0.0.0.0 sexthudam.top
 0.0.0.0 sextinh.me
 0.0.0.0 sextivi.vip
+0.0.0.0 sextoico.pro
 0.0.0.0 sextop.live
 0.0.0.0 sextop.net
 0.0.0.0 sextop.rocks
@@ -10968,6 +11284,7 @@
 0.0.0.0 sextop1.app
 0.0.0.0 sextop1.best
 0.0.0.0 sextop1.bio
+0.0.0.0 sextop1.blog
 0.0.0.0 sextop1.club
 0.0.0.0 sextop1.dev
 0.0.0.0 sextop1.fun
@@ -10991,6 +11308,7 @@
 0.0.0.0 sextop1s.net
 0.0.0.0 sextop1to.net
 0.0.0.0 sextop1x.com
+0.0.0.0 sextop2.blog
 0.0.0.0 sextop3x.com
 0.0.0.0 sextop68.com
 0.0.0.0 sextopi.com
@@ -11020,9 +11338,11 @@
 0.0.0.0 sextusuong.com
 0.0.0.0 sextuyen.com
 0.0.0.0 sextuyen.pro
+0.0.0.0 sextuyenchon.com
 0.0.0.0 sextv.me
 0.0.0.0 sextv2.pro
 0.0.0.0 sextvhay.net
+0.0.0.0 sexvai.net
 0.0.0.0 sexvcc.xyz
 0.0.0.0 sexvcl.pro
 0.0.0.0 sexvid.it
@@ -11030,12 +11350,14 @@
 0.0.0.0 sexviet.asia
 0.0.0.0 sexviet.cc
 0.0.0.0 sexviet.click
+0.0.0.0 sexviet.fan
 0.0.0.0 sexviet.fun
 0.0.0.0 sexviet.info
 0.0.0.0 sexviet.live
 0.0.0.0 sexviet.mobi
 0.0.0.0 sexviet.net
 0.0.0.0 sexviet.online
+0.0.0.0 sexviet.red
 0.0.0.0 sexviet.sex
 0.0.0.0 sexviet.store
 0.0.0.0 sexviet.tube
@@ -11072,6 +11394,7 @@
 0.0.0.0 sexvietmoi.net
 0.0.0.0 sexvietmoi.org
 0.0.0.0 sexvietmoi.pro
+0.0.0.0 sexvietnam.bio
 0.0.0.0 sexvietnam.biz
 0.0.0.0 sexvietnam.cc
 0.0.0.0 sexvietnam.site
@@ -11085,6 +11408,7 @@
 0.0.0.0 sexvietsub.vip
 0.0.0.0 sexvietsub123.com
 0.0.0.0 sexvietsub247.com
+0.0.0.0 sexvietsubs1.com
 0.0.0.0 sexvietsubz.com
 0.0.0.0 sexviett.com
 0.0.0.0 sexvietvip.net
@@ -11134,6 +11458,7 @@
 0.0.0.0 sexvtv1.pro
 0.0.0.0 sexvungtrom.org
 0.0.0.0 sexxinh.com
+0.0.0.0 sexxss.net
 0.0.0.0 sexxtrungquoc.com
 0.0.0.0 sexxy69.net
 0.0.0.0 sexz.top
@@ -11148,9 +11473,11 @@
 0.0.0.0 showgaidep.xyz
 0.0.0.0 showhangnhanh.xyz
 0.0.0.0 showvip.one
+0.0.0.0 sieudam.biz
 0.0.0.0 sieudam.co
 0.0.0.0 sieudamtv.com
 0.0.0.0 sieudamtv.pro
+0.0.0.0 sieukhung.live
 0.0.0.0 sieukhung.us
 0.0.0.0 sieukhungg.net
 0.0.0.0 sieukhungz.net
@@ -11220,6 +11547,7 @@
 0.0.0.0 thiendia99.co
 0.0.0.0 thiendia99.net
 0.0.0.0 thiendiatruyen.com
+0.0.0.0 thienvadia.icu
 0.0.0.0 thienvadia.net
 0.0.0.0 thudam.pro
 0.0.0.0 thudam.vip
@@ -11239,6 +11567,7 @@
 0.0.0.0 tinhmotdem.asia
 0.0.0.0 tintucgai.com
 0.0.0.0 tinwin.club
+0.0.0.0 titdam.bz
 0.0.0.0 titdam.tv
 0.0.0.0 tk66.app
 0.0.0.0 tk66.tv
@@ -11288,6 +11617,8 @@
 0.0.0.0 trendpornvids.com
 0.0.0.0 trinhtiet.net
 0.0.0.0 trumbamien.com
+0.0.0.0 trumphimsex.net
+0.0.0.0 trumphimsex.org
 0.0.0.0 trumsexviet.com
 0.0.0.0 trumsexviet.net
 0.0.0.0 trumsexviet.org
@@ -11434,6 +11765,7 @@
 0.0.0.0 viet.sex
 0.0.0.0 viet69.app
 0.0.0.0 viet69.asia
+0.0.0.0 viet69.biz
 0.0.0.0 viet69.cam
 0.0.0.0 viet69.cc
 0.0.0.0 viet69.click
@@ -11444,23 +11776,32 @@
 0.0.0.0 viet69.de
 0.0.0.0 viet69.dev
 0.0.0.0 viet69.dog
+0.0.0.0 viet69.ec
 0.0.0.0 viet69.fan
 0.0.0.0 viet69.fun
 0.0.0.0 viet69.gg
+0.0.0.0 viet69.gold
+0.0.0.0 viet69.help
 0.0.0.0 viet69.io
 0.0.0.0 viet69.li
 0.0.0.0 viet69.life
 0.0.0.0 viet69.link
+0.0.0.0 viet69.live
 0.0.0.0 viet69.love
 0.0.0.0 viet69.ltd
 0.0.0.0 viet69.me
+0.0.0.0 viet69.moi
 0.0.0.0 viet69.net
 0.0.0.0 viet69.news
 0.0.0.0 viet69.nl
 0.0.0.0 viet69.online
+0.0.0.0 viet69.ooo
 0.0.0.0 viet69.org
 0.0.0.0 viet69.page
 0.0.0.0 viet69.pro
+0.0.0.0 viet69.pub
+0.0.0.0 viet69.sale
+0.0.0.0 viet69.sbs
 0.0.0.0 viet69.sex
 0.0.0.0 viet69.sh
 0.0.0.0 viet69.shop
@@ -11471,6 +11812,8 @@
 0.0.0.0 viet69.tax
 0.0.0.0 viet69.tech
 0.0.0.0 viet69.to
+0.0.0.0 viet69.town
+0.0.0.0 viet69.toys
 0.0.0.0 viet69.tube
 0.0.0.0 viet69.us
 0.0.0.0 viet69.vc
@@ -11480,6 +11823,8 @@
 0.0.0.0 viet69b.com
 0.0.0.0 viet69m.com
 0.0.0.0 viet69s.com
+0.0.0.0 viet69vn.cc
+0.0.0.0 viet69vn.us
 0.0.0.0 viet69x.com
 0.0.0.0 viet69x.pro
 0.0.0.0 viet69xxx.com
@@ -11487,6 +11832,7 @@
 0.0.0.0 viet69zz.com
 0.0.0.0 vietclan.net
 0.0.0.0 vietfun.me
+0.0.0.0 vietnam03.com
 0.0.0.0 vietset.com
 0.0.0.0 vietsex.cam
 0.0.0.0 vietsex.info
@@ -11494,11 +11840,13 @@
 0.0.0.0 vietsex.me
 0.0.0.0 vietsex.org
 0.0.0.0 vietsex.us
+0.0.0.0 vietsexnet.com
 0.0.0.0 vietsubsex.com
 0.0.0.0 vietxinh.net
 0.0.0.0 vietxnxx.com
 0.0.0.0 vietxx.com
 0.0.0.0 vietxx.info
+0.0.0.0 vip1.vnav.me
 0.0.0.0 vip2.viet69.studio
 0.0.0.0 vip3x.me
 0.0.0.0 vip9x.pro
@@ -11602,10 +11950,12 @@
 0.0.0.0 vlxx.xyz
 0.0.0.0 vlxx1.me
 0.0.0.0 vlxx18.net
+0.0.0.0 vlxx18.pro
 0.0.0.0 vlxx24h.com
 0.0.0.0 vlxx24h.info
 0.0.0.0 vlxx24h.net
 0.0.0.0 vlxx3.pro
+0.0.0.0 vlxx3s.net
 0.0.0.0 vlxx69.net
 0.0.0.0 vlxx69.plus
 0.0.0.0 vlxx69.xyz
@@ -11670,6 +12020,7 @@
 0.0.0.0 vnshow.cc
 0.0.0.0 vntopg88.live
 0.0.0.0 vntopg88.vip
+0.0.0.0 vnvn77.com
 0.0.0.0 vnxnxx.cc
 0.0.0.0 vnxnxx.pro
 0.0.0.0 vnxnxx.xyz
@@ -11738,6 +12089,7 @@
 0.0.0.0 www.anhsex18.com
 0.0.0.0 www.anhsex18.net
 0.0.0.0 www.anhsexvip.me
+0.0.0.0 www.apptimgai.com
 0.0.0.0 www.buomtv.app
 0.0.0.0 www.buomtv.tv
 0.0.0.0 www.phim18k.com
@@ -11776,6 +12128,9 @@
 0.0.0.0 xamvn.today
 0.0.0.0 xamvn.top
 0.0.0.0 xamvn.us
+0.0.0.0 xcheckerviet.cam
+0.0.0.0 xcheckerviet.in
+0.0.0.0 xcheckerviet.vc
 0.0.0.0 xcopen.com
 0.0.0.0 xem-jav.net
 0.0.0.0 xem-phim-sex.com
@@ -11815,6 +12170,7 @@
 0.0.0.0 xemphimnguoilon.com
 0.0.0.0 xemphimsec.net
 0.0.0.0 xemphimsec.top
+0.0.0.0 xemphimsec.wtf
 0.0.0.0 xemphimset.me
 0.0.0.0 xemphimset.net
 0.0.0.0 xemphimset.pro
@@ -11917,6 +12273,11 @@
 0.0.0.0 xn2x.top
 0.0.0.0 xn3x.net
 0.0.0.0 xn3x.pro
+0.0.0.0 xnhau.blog
+0.0.0.0 xnhau.icu
+0.0.0.0 xnhau.io
+0.0.0.0 xnhau.moe
+0.0.0.0 xnhau.my
 0.0.0.0 xnxvn.org
 0.0.0.0 xnxx-com.net
 0.0.0.0 xnxx-moi.com
@@ -11975,6 +12336,7 @@
 0.0.0.0 xphimsex.me
 0.0.0.0 xphimsex.pro
 0.0.0.0 xphimsex.top
+0.0.0.0 xphimsex.tv
 0.0.0.0 xphimsex.xyz
 0.0.0.0 xphimsexviet.com
 0.0.0.0 xsexdem.com
@@ -12027,6 +12389,7 @@
 0.0.0.0 xxphap.net
 0.0.0.0 xxphe.cc
 0.0.0.0 xxphe.me
+0.0.0.0 xxphim.blog
 0.0.0.0 xxphim.cam
 0.0.0.0 xxphim.club
 0.0.0.0 xxphim.co
@@ -12046,6 +12409,10 @@
 0.0.0.0 xxviet.tv
 0.0.0.0 xxviet.xyz
 0.0.0.0 xxvip.net
+0.0.0.0 xxvn.cc
+0.0.0.0 xxvn.com
+0.0.0.0 xxvnapi.com
+0.0.0.0 xxvnurl.com
 0.0.0.0 xxx-hay.pro
 0.0.0.0 xxx-phim.com
 0.0.0.0 xxx.ditnhau.cc
@@ -12122,6 +12489,7 @@
 0.0.0.0 zanevski.ru
 0.0.0.0 zarabotokgroup.ru
 0.0.0.0 zhentai.tv
+0.0.0.0 zingsex.top
 0.0.0.0 zo3x.cc
 0.0.0.0 zo3x.top
 0.0.0.0 zohup.com
