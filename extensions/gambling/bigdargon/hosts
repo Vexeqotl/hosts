@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling VN
-# Last modified: 30 Dec 2024 00:24 UTC+7
-# Version: 2412300024
-# Blocked: 6.055 domains
+# Last modified: 16 Jan 2025 22:53 UTC+7
+# Version: 2501162253
+# Blocked: 6.068 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -493,6 +493,7 @@
 0.0.0.0 ad.8live.com
 0.0.0.0 ad.8live.net
 0.0.0.0 ad.app8.top
+0.0.0.0 ad.choigametip.org
 0.0.0.0 ad.choigem.fun
 0.0.0.0 ad.choigo88.run
 0.0.0.0 ad.choingay11b.mobi
@@ -1187,6 +1188,7 @@
 0.0.0.0 daman2.com
 0.0.0.0 dangky.dailynet88.com
 0.0.0.0 dangky.go88.com
+0.0.0.0 dangky.iwin.bio
 0.0.0.0 dangky.thethaofb88.com
 0.0.0.0 dangky.tysoeuro.online
 0.0.0.0 dangky388bet.xyz
@@ -1214,6 +1216,7 @@
 0.0.0.0 dbthethao.run
 0.0.0.0 dd7bet.me
 0.0.0.0 debet.bet
+0.0.0.0 debet.bot
 0.0.0.0 debet.cc
 0.0.0.0 debet.club
 0.0.0.0 debet.com
@@ -1523,6 +1526,7 @@
 0.0.0.0 g9vip.com
 0.0.0.0 ga179.com
 0.0.0.0 ga836.com
+0.0.0.0 ga88.pro
 0.0.0.0 ga939.com
 0.0.0.0 ga98.net
 0.0.0.0 gachoic1.com
@@ -1921,6 +1925,7 @@
 0.0.0.0 ios.v99win.app
 0.0.0.0 ip.cuocb52.me
 0.0.0.0 iwiin.club
+0.0.0.0 iwin.bio
 0.0.0.0 iwin.club
 0.0.0.0 iwin.info
 0.0.0.0 iwin.net
@@ -3966,6 +3971,7 @@
 0.0.0.0 play.hitclub.blue
 0.0.0.0 play.horse79.live
 0.0.0.0 play.im99.com
+0.0.0.0 play.iwin.bio
 0.0.0.0 play.iwin.net
 0.0.0.0 play.lo88.live
 0.0.0.0 play.lo88.vin
@@ -4305,6 +4311,7 @@
 0.0.0.0 sock.red88.vip
 0.0.0.0 sock.sky88.fun
 0.0.0.0 sock.sky88.in
+0.0.0.0 socket.debet.uk
 0.0.0.0 socket.debet.win
 0.0.0.0 soco88.com
 0.0.0.0 socvip.com
@@ -4489,6 +4496,7 @@
 0.0.0.0 tai.taisum2.com
 0.0.0.0 tai.top88vn.net
 0.0.0.0 tai.v28.club
+0.0.0.0 tai.vf88.win
 0.0.0.0 tai.win79.pro
 0.0.0.0 tai.win79.vip
 0.0.0.0 tai.yo88vn.us
@@ -4766,6 +4774,7 @@
 0.0.0.0 tx.socvip.com
 0.0.0.0 tx.socvip9.club
 0.0.0.0 tx1.vip
+0.0.0.0 tx88.com
 0.0.0.0 tydo88.com
 0.0.0.0 tysoeuro.online
 0.0.0.0 tz.bet20.bet
@@ -4835,6 +4844,8 @@
 0.0.0.0 vaorikvip.net
 0.0.0.0 vb211.com
 0.0.0.0 vb777.co
+0.0.0.0 vb777.com
+0.0.0.0 vb777.pw
 0.0.0.0 vb777.top
 0.0.0.0 vb88.com
 0.0.0.0 vb88.win
@@ -4846,6 +4857,7 @@
 0.0.0.0 vf234.com
 0.0.0.0 vf456.com
 0.0.0.0 vf678.com
+0.0.0.0 vf88.win
 0.0.0.0 vfun88.com
 0.0.0.0 vg66.app
 0.0.0.0 vg66.com
@@ -5978,6 +5990,7 @@
 0.0.0.0 xo88.com
 0.0.0.0 xo88.fun
 0.0.0.0 xo88.info
+0.0.0.0 xo88.pro
 0.0.0.0 xo88.us
 0.0.0.0 xo88.win
 0.0.0.0 xo88bet.com
